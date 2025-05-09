@@ -24,8 +24,7 @@
             "group": "Case Studies",
             "pages": [
               "case-studies/amplication",
-              "case-studies/chartdb",
-              "case-studies/dune"
+              "case-studies/chartdb"
             ]
           }
         ]
